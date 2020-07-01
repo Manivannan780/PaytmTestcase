@@ -1,0 +1,8 @@
+<suite name="Paytm mall online Testcase">
+<test name="General function Testcase">
+<classes>
+<class name="com_PageTestCase.Testcase1">
+</class>
+</classes>
+</test>
+</suite>
